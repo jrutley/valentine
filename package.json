@@ -2,7 +2,7 @@
   "name": "carrie-valentine",
   "version": "1.0.0",
   "description": "A valentine for my wife",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "dotenv": "^4.0.0",
     "express": "^4.14.0",
