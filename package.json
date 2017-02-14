@@ -1,7 +1,7 @@
 {
-  "name": "weather-app",
+  "name": "carrie-valentine",
   "version": "1.0.0",
-  "description": "Display the current weather at your location",
+  "description": "A valentine for my wife",
   "main": "index.js",
   "dependencies": {
     "dotenv": "^4.0.0",
@@ -17,17 +17,7 @@
   },
   "devDependencies": {
   },
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jrutley/weather-app.git"
-  },
   "author": "Jeramy Rutley",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/jrutley/weather-app/issues"
-  },
-  "homepage": "https://github.com/jrutley/weather-app#readme"
+  "homepage": "https://carrie-valentine.herokuapp.com"
 }
